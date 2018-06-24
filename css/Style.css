@@ -78,8 +78,8 @@ padding-top: 10px;
 
 }
 .ima{
-/* width: 400px; */
- 	margin: 0 auto;
+     width: 400px;
+/*  	margin: 0 auto; */
     border-radius: 50%;
     margin-bottom: 41px;
     border:  solid white;
